@@ -26033,7 +26033,7 @@ var Root = function Root(_ref) {
   );
 };
 
-exports.default = root;
+exports.default = Root;
 
 /***/ }),
 /* 266 */
