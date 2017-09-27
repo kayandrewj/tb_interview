@@ -5,14 +5,12 @@ import merge from 'lodash/merge';
 
 const mapStateToProps = (state, ownProps) => {
   return {
-
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
   return {
-
   };
 };
 
-export default withRouter(connect(mapStateToProps, mapDispatchToProps), Main);
+export default withRouter(connect(mapStateToProps, mapDispatchToProps)(Main));
