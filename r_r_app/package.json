@@ -10,7 +10,7 @@
     "generator-react-webpack": "^3.3.4",
     "jquery-ujs": "^1.2.2",
     "jszip": "^3.1.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.6",
